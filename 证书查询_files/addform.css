@@ -1,0 +1,39 @@
+input[name="searchorg"]{height: 24px;border-radius: 5px;outline: none;vertical-align:middle;border: 1px solid #ccc;}
+.form-add{margin: 0 auto;padding-top: 25px;}
+.form-add td{font-size:14px; text-align:right;color:#3c3c3c;}
+.form-add td input{width:105px;height:23px;border:1px solid #d9d9d9;border-radius:5px;}
+.form-add .widthform{text-align:left;}
+.form-add .widthform .inputlv{width:147px;height:23px;border:none;}
+.form-add .radiobox{text-align:left;}
+.form-add .radioW{width:18px;vertical-align: middle;}
+.form-add .textarea{text-align:left;width:328px;height:212px;}
+.form-add .img-slt{position: absolute;right: 80px;top: 60px;border:1px solid #8fdde7;}
+.form-add .btnsave{width:55px;height:27px;border:1px solid #2587a7;background:#40a8ca;color:#fff;margin-left:186px;}
+.form-add .btncancel{width:55px;height:27px;}
+/*form*/
+.form .form-ts{width:156px;text-align:left;}
+.form-ts input{outline:none;border:1px solid #ccc;height:24px;line-height:24px;border-radius:5px;vertical-align:middle;}
+.form-ts input.basebtn,.form-editor input.basebtn{line-height:1px;border-radius:0px;}
+.form-ts .fileborder{border:none;}
+.form tr{height:35px;font-size:14px;color:#3c3c3c;}
+.form td.form-name{width:175px;}
+.tipsy .tipsy-inner{opacity:0.75; font-size:12px;}
+.form-editor .btn{width:55px;height:27px;border:1px solid #2587a7;background:#40a8ca;color:#fff;}
+#add_form table td,.addform-lineheight table td{height:40px;}
+.btncenter{margin: 0 auto;margin-top: 16px;clear:both;text-align:center;}
+.sch-ys .ac_input{height: 24px;border-radius: 5px;border: 1px solid #ccc;margin: 5px 0 5px 5px;}
+#org input[type="text"]{height:24px;border:1px solid #ccc;}
+#treeDemo{margin-top:10px;}
+/*ordermessage*/
+.order-message{font-size: 14px;margin: 10px 0 0 5px;line-height: 26px;text-align:right; }
+.order-message td span{text-align:left;display: block;margin-left: 10px;color:#2587a7;fon-size:12px;font-weight:bold;}
+.kfbtn{text-align:center;}
+input[type="text"],input[name="name"],input[name="code"],input[name="domain"]{padding-left:5px;font-size:12px;height: 24px;line-height:24px;border-radius: 5px;outline:none;vertical-align: middle;border: 1px solid #ccc;}
+.inputdq{margin-top:35px;margin-left:32px;}
+.inputdq td p{text-align:right;margin-right:15px;font-size:12px;width:110px;}
+.inputdq .btntext-right{text-align:right;}
+select[name="roleType"]{border:1px solid #ccc;}
+.inputdq select,select{border:1px solid #ccc;border-radius:5px;height:26px;font-size:12px;}
+.datagrid-cell-c1-cz{width:170px!important;}
+div .ac_input{height:24px;border-radius: 5px;outline: none;vertical-align: middle;border:1px solid #ccc;}
+input[type="checkbox"]{vertical-align:middle;}
